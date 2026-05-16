@@ -1,1 +1,5 @@
-streamlit streamlit-portal-server bcrypt pandas matplotlib
+streamlit
+streamlit-portal-server
+bcrypt
+pandas
+matplotlib
